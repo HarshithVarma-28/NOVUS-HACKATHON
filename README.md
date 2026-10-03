@@ -1,2 +1,2 @@
 # NOVUS-HACKATHON
-The Problem Statements and Solutions
+The Problem Statement and Solution
